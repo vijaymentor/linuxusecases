@@ -1,0 +1,4 @@
+- How to create a local yum repository which would make use of the mounted linux ISO image under /media ?
+- Different ways that can be used to verify that a package got installed successfully via yum:
+- If for some reasons, a binary file gets corrupted or missing from the system, then how could this be recovered with minimal downtime?
+- Scenario:6 While installing VMware tools on Suse Linux Servers if you get below errors

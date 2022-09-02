@@ -1,0 +1,2 @@
+- How can I reboot quickly into another kernel (if available) by-passing BIOS process?
+- Dumping a crashed kernel for later analysis

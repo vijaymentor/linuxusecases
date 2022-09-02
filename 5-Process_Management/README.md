@@ -1,0 +1,11 @@
+- How to increase the cpu and memory utilization using dd command
+- What should be an optimal Load average for a Linux server ?
+- How to find PID associated with a Port number?
+- Scenario:9 How to find how many CPU core are used by a process in Linux server?
+- Process stopped unexpectedly .[Suddenly killed tasks are often the result of the system running out of memory, which is when the so-called Out-of-memory (OOM) killer steps in.]
+- Check if your process is at risk. [If your server’s memory gets used up to the extent at which it can threaten system stability, the Out-of-memory killer will choose which process to eliminate based on many variables such as the amount of work done that would be lost and total memory freed. Linux keeps a score for each running process, which represents the likelihood at which the process would be killed in OOM situation.]
+- Disable over commit.[In major Linux distributions, the kernel allows by default for processes to request more memory than is currently free in the system to improve the memory utilization. This is based on heuristics that the processes never truly use all the memory they request. However, if your system is at risk of running out of memory, and you wish to prevent losing tasks to OOM killer, it is possible to disallow memory overcommit.]
+- How to Inspect the Memory in Linux
+- Linux Troubleshoot 100% CPU Usage
+- Customizing and sorting the output of ps.However, perhaps you don’t need all that information, and would like to show the owner of the process, the command that started it, its PID and PPID, and the percentage of memory it’s currently using – in that order, and sort by memory use in descending order (note that ps by default is sorted by PID).
+- Pausing the execution of a running process and resuming it in the background

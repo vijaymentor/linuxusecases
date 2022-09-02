@@ -1,0 +1,17 @@
+- Repair a File System
+- Repair a File System Issues at boot
+- Running out of the disk space on Linux or Unix box
+- Disk corruption
+- File system corruption
+- Disk quota
+- RAID card failure
+- SSD/Hard disk failure in software/hardware RAID
+- Delete Big files.
+- Remove unnecessary packages. 
+- Remove unnecessary applications. 
+- Clean up apt-cache in Ubuntu. 
+- Clean up System Logs.
+- Filesystem resize issue
+- Enlarge a disk and partition of any Linux VM without a reboots
+- Scenario:2 On one of my Linux Server, Oracle database was not running because of tmpfs . Oracle Team wants to extend the tmfs file system size from 2 GB to 4GB.
+- Scenario:5 For same file system df and du command shows different disk usage.

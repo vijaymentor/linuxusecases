@@ -1,0 +1,18 @@
+- Troubleshooting slow servers: How to check CPU, RAM, and Disk I/O
+- Common Troubleshooting Tools
+- RPM Queries
+- RPM Verification
+- SRPM and spec Files
+- Hardware Discovery Tools
+- Configuring New Hardware with hwinfo
+- strace and ltrace
+- lsof and fuser
+- ipcs and ipcrm
+- iostat, mpstat, and vmstat
+- Using hdparm to Measure
+- Troubleshooting with the ip command
+- Name Resolution
+- ss/netstat and rpcinfo
+- nmap
+- Netcat
+- tcpdump and wireshark

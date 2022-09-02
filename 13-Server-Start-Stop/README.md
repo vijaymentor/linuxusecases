@@ -1,0 +1,7 @@
+- Finding last reboot, shutdown time and failed login attempts
+- Finding Start time of a Linux Process
+- Shutting down the system using the shutdown command
+- Shutting down the system using the systemctl command
+- Restarting the system
+- Suspending the system
+- Hibernating the system

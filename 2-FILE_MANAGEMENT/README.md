@@ -1,0 +1,26 @@
+- How to count number of Files and Folders inside a given Directory
+- How to validate the Syntax of /etc/sudoers file ?
+- List files that are modified recently with Timestamp
+- How to check if a file is being accessed by any process ?
+- Comparing directories between 2 Linux systems
+- Comparing directories using 'diff' command
+- Rsync command and how to sync one directory to different location ?
+- Who is the owner of the file /work/guidelines?
+- Who is the owner of file /work/readme.txt?
+- Who is the group of file /work/readme.txt?
+- Can the user ‘teacher’ read the file /work/readme.txt?
+- Can the user ‘student’ read the file /work/guidelines?
+- Make /work/shell executable.
+- Find all world-readable files.
+- Find all world-writable files.
+- Create a new directory /work/sample. Set its permissions such that only the user can read.
+- Change the group of the shell binary to the ‘admin’ group.
+- Change the owner of the shell binary to the ‘student’ user.
+- Find all binaries for which the setuid bit is set.
+- Set setuid bit for /bin/bash. Change to user student (using switch user or su) and see if root access can be achieved (without exiting back to).
+- HOW TO COUNT NUMBER OF FILES AND FOLDERS INSIDE A GIVEN DIRECTORY ?	3
+- HOW TO VALIDATE THE SYNTAX OF /ETC/SUDOERS FILE ?	3
+- LIST FILES THAT ARE MODIFIED RECENTLY WITH TIMESTAMP	3
+- hardlink
+- Scenario:7 How to sync  the entire Directory Structure from Source to  remote Destination Directory?
+

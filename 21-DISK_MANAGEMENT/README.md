@@ -1,0 +1,12 @@
+- Add one disk and create ext4 partition?
+- Add one disk and create xfs partition ?
+- Add one disk and create logical volume and mount logical volume ?
+- Add one Disk and Create logical volume and mount it.create NFS from this mount point ?
+- Disk Cleaning
+- Method 1 - Linux OS Disk Mirroring with cat command
+- Method 2 - Linux OS Disk Mirroring with DD command
+- Scenario:1 On one of my Production SuSE Linux (VMware Virtual Server ) , Storage team has extended partition (RDM disk ) from their end. Now how to rescan that partition and extend without rebooting from the Linux ?
+- Scenario:4 In one of my Linux box , NAS share was mounted on the directory under /archive2015. Space of the NAS share was 150 GB and used size is 137 GB but when we try to create any file or directory we were getting “Disk Quota Exceed” error.
+- Finding and / or deleting empty files and directories.Note that you can run out of storage space long before running out of inodes, and vice-versa. For that reason, you need to monitor not only the storage space utilization but also the number of inodes used by file system.
+- Example 2: Inspecting inode usage by file system in human-readable format with
+- Examining disk usage by directory.If the use of a certain file system is above a predefined percentage, you can use du (short for disk usage) to find out what are the files that are occupying the most space.
