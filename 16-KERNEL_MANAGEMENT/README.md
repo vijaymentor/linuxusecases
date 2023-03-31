@@ -1,2 +1,3 @@
 - How can I reboot quickly into another kernel (if available) by-passing BIOS process?
 - Dumping a crashed kernel for later analysis
+- How can we fix the kernal vulnarability in production server without rebooting a server? Ans:- we can use k-patch for this. 
