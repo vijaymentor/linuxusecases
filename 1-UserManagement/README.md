@@ -1,4 +1,14 @@
 - Manager want to implement an on boarding process. Whenever new employee joined in the project, their UserId. How to force a user to reset his password upon next login ?
+**
+****Answer :-
+We can use passwd or chage command for this requirement,
+Method 1 :- (using passwd commad)
+passwd --expire username
+chage -l username
+**
+**Method 2 :- (using chage commad)
+chage --lastday 0 username******
+
 - In one of the support project 100 Linux admins are working in 24/7 support. Project want to monitor all the system admin support activity.How to log commands executed by all the users in Linux?
 - What is the command to create a user with a pre defined uid, shell and home directory?
 - If I delete a user, does it's home directory gets deleted? If not then what is the command to delete the home directory of user along with the user
