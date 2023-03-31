@@ -1,4 +1,8 @@
 - what is tcpdump and how to capture the packets and how to understand the tcpdump logs ?
 - Use ‘-D‘ option to display all the available interfaces for tcpdump command
 - add 2 nic card and configure network teaming ?
-
+- what in nic bonding?
+- what is the pros and cons between fiber and copper? 
+- How to check the connectivity between the two server? 
+- What is the purpose of tcptraceroute/traceroute commands?
+- How can we check default gateway and route in linux servers?
